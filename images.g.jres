@@ -1,0 +1,77 @@
+{
+    "image2": {
+        "data": "hwQNAA0AAAAA/v///w4AAODf3d3d7wAA/t3d3d39DgDf3Xd33d0PAN93d3fX3Q8A33d3d3fdDwDfd3d3d90PAN93d3d33Q8A33d3d3fdDwDfd3d3d90PAP59d3fX/Q4A4N/d3d3vAAAA/v///w4AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food"
+    },
+    "image1": {
+        "data": "hwQNAA0AAAAA8P///wAAAAC/u7u7DwAA8Lu7u7v7AAC/KyIiu7sPAL8iIiKyuw8AvyIiIiK7DwC/IiIiIrsPAL8iIiIiuw8AvyIiIiK7DwC/IiIiIrsPAPArIiKy+wAAAL+7u7sPAAAA8P///wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "poison"
+    },
+    "image16": {
+        "data": "hwQPABAAAAAAAPD//w8AAADwT0RE9A8AAE9EMzNE9ADwRDMzMzNED/A0MzMzM0MP8DQzMzMzQw/w9D9jNvNPD/A/8zM2P/MP/jQzP/MzQ+/vNBU1U1FD/gBPgUEUGPQAAE8VRVRR9AAA/kRERETvAAAA/ru77wAAAADg7u4OAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head7"
+    },
+    "image15": {
+        "data": "hwQPABAAAAAAAODu7g4AAAAA/ru77wAAAP5ERERE7wAATxVFVFH0AABPgUEUGPQA7zQVNVNRQ/7+NDM/8zND7/A/82M2P/MP8PQ/MzbzTw/wNDMzMzNDD/A0MzMzM0MP8EQzMzMzRA8AT0QzM0T0AADwT0RE9A8AAADw//8PAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head6"
+    },
+    "image11": {
+        "data": "hwQQAA8AAAAAAPAOAAAAAAAA4P///wAAAP5P9EREDwAATzQzP0P0AOBUUTM/M/QA/hQY8zMzRA++VFE/MzNDD75ENGM2M0MPvkQ0MzYzQw++VFE/MzNDD/4UGPMzM0QP4FRRMz8z9AAATzQzP0P0AAD+T/RERA8AAADg////AAAAAPAOAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head4"
+    },
+    "image17": {
+        "data": "hwQQAA8AAAAAAAAA/gAAAADw///vAAAAAE9E9ET/DgDwRDM/M0QPAPA0Mz9TUeQATzQz8xMY9A5PMzMzX1G0Dk8zM2YzRLQOTzMzYzNEtA5PMzMzX1G0Dk80M/MTGPQO8DQzP1NR5ADwRDM/M0QPAABPRPRE/w4AAPD//+8AAAAAAAAA/gAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head8"
+    },
+    "image13": {
+        "data": "hwQMAAwAAADg/////w4AAP5ERERE7wAAT7S7u0v0AABPi4iIuPQAAE8jIiIy9AAAn4iqqoj5AACfiKqqiPkAAE8jIiIy9AAAT4uIiLj0AABPtLu7S/QAAP5ERERE7wAA4P////8OAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentUp"
+    },
+    "image14": {
+        "data": "hwQMAAwAAADg/////w4AAP5ElElE7wAAT7SDOEv0AABPi4IouPQAAE+Loiq49AAAT4uiKrj0AABPi6IquPQAAE+Loiq49AAAT4uCKLj0AABPtIM4S/QAAP5ElElE7wAA4P////8OAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentRight"
+    },
+    "image4": {
+        "data": "hwQQAAwAAAAAAA8AAAAAAAAA8AAAAAAA4P////8OAAD+RERERO8AAE+0u7tL9AAAT4uIiLj0AABPIyIiMvQAAJ+IqqqI+QAAn4iqqoj5AABPIyIiMvQAAE+LiIi49AAAT7S7u0v0AAD+RERERO8AAOD/////DgAAAADwAAAAAAAAAA8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentUpUp"
+    },
+    "image3": {
+        "data": "hwQQAAwAAAAAAAAPAAAAAAAAAA8AAAAA4P////8OAAD+RERERO8AAE+0u7tL9AAAT4uIiLj0AABPIyIiMvQAAJ+IqqqI+QAAn4iqqoj5AABPIyIiMvQAAE+LiIi49AAAT7S7u0v0AAD+RERERO8AAOD/////DgAAAAAADwAAAAAAAAAPAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentUpCenter"
+    },
+    "image5": {
+        "data": "hwQQAAwAAAAAAAAADwAAAAAAAPAAAAAA4P////8OAAD+RERERO8AAE+0u7tL9AAAT4uIiLj0AABPIyIiMvQAAJ+IqqqI+QAAn4iqqoj5AABPIyIiMvQAAE+LiIi49AAAT7S7u0v0AAD+RERERO8AAOD/////DgAAAAAA8AAAAAAAAAAADwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentUpDown"
+    },
+    "image7": {
+        "data": "hwQMABAAAAAA4P////8OAAD+RJRJRO8AAE+0gzhL9AAAT4uCKLj0AABPi6IquPQAAE+Loiq49AAAT4uiKrj0APBPi6IquPQPD0+Lgii49PAAT7SDOEv0AAD+RJRJRO8AAOD/////DgA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentRightRight"
+    },
+    "image6": {
+        "data": "hwQMABAAAAAA4P////8OAAD+RJRJRO8AAE+0gzhL9AAAT4uCKLj0AABPi6IquPQAAE+Loiq49AD/T4uiKrj0/wBPi6IquPQAAE+Lgii49AAAT7SDOEv0AAD+RJRJRO8AAOD/////DgA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentRightCenter"
+    },
+    "image8": {
+        "data": "hwQMABAAAAAA4P////8OAAD+RJRJRO8AAE+0gzhL9AAAT4uCKLj0AA9Pi6IquPTw8E+Loiq49A8AT4uiKrj0AABPi6IquPQAAE+Lgii49AAAT7SDOEv0AAD+RJRJRO8AAOD/////DgA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "segmentRightLeft"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

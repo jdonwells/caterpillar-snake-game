@@ -1,0 +1,56 @@
+{
+    "name": "Caterpillar (Snake) Game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "animation": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "pxt-arcade-image-transform": "github:robo-technical-group/pxt-arcade-image-transform#v1.0.9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.30",
+        "tag": "v1.12.30",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/33228b1cc7e1bea3f728c26a6047bdef35fd2c09",
+        "target": "1.12.30",
+        "pxt": "8.5.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#B9BC20",
+        "#9D9F19",
+        "#F3F4BE",
+        "#CACD23",
+        "#78DC52",
+        "#003FAD",
+        "#00348F",
+        "#004BCC",
+        "#E60000",
+        "#33FFFC",
+        "#5BD42B",
+        "#ABABAB",
+        "#000000"
+    ]
+}
